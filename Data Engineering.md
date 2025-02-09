@@ -1,5 +1,5 @@
 
-# 🚀 **Become a Data Engineering Expert in Just 1 Month!** 🔥  
+# 🚀 **Become a Data Engineering Expert in Just 3 Month!** 🔥  
 
 👨‍💻 **Intensive Hands-on Data Engineering Program** | 💡 **90 Hours of Learning** | 🎯 **Structured & Progressive Approach**  
 
