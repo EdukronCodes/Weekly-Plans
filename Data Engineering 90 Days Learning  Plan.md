@@ -39,7 +39,7 @@ As part of this **comprehensive Data Engineering program**, you will master:
 
 
 
-# 🚀 Master Python in Just 1 Month! 🔥  
+# 🚀 Module 1 : Python Programming Duration : 1 Month ! 🔥  
 
 👨‍💻 **Intensive Hands-on Python Program** | 💡 **90 Hours of Learning** | 🎯 **Structured & Progressive Approach**  
 
